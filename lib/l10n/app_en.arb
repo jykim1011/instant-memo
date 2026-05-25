@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "appTitle": "Instant Memo",
+  "myMemos": "My Memos",
+  "active": "Active",
+  "completed": "Completed",
+  "addMemo": "Add Memo",
+  "editMemo": "Edit Memo",
+  "deleteMemo": "Delete Memo",
+  "deleteConfirm": "Delete this memo?",
+  "deleteConfirmPermanent": "Permanently delete this memo?",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "save": "Save",
+  "hintText": "Write down what comes to mind...",
+  "emptyActive": "No memos yet.\nTap + to write your first memo.",
+  "emptyCompleted": "No completed memos.",
+  "memoDeleted": "Memo deleted.",
+  "emptyContent": "Please enter memo content.",
+  "deleteThisMemo": "Delete this memo"
+}

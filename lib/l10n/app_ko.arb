@@ -1,0 +1,21 @@
+{
+  "@@locale": "ko",
+  "appTitle": "순간 메모",
+  "myMemos": "내 메모",
+  "active": "진행 중",
+  "completed": "완료",
+  "addMemo": "메모 추가",
+  "editMemo": "메모 편집",
+  "deleteMemo": "메모 삭제",
+  "deleteConfirm": "이 메모를 삭제하시겠습니까?",
+  "deleteConfirmPermanent": "이 메모를 영구적으로 삭제하시겠습니까?",
+  "cancel": "취소",
+  "delete": "삭제",
+  "save": "저장",
+  "hintText": "지금 떠오르는 생각을 적어보세요...",
+  "emptyActive": "아직 메모가 없습니다.\n+ 버튼을 눌러 첫 메모를 작성해보세요.",
+  "emptyCompleted": "완료된 메모가 없습니다.",
+  "memoDeleted": "메모가 삭제되었습니다.",
+  "emptyContent": "메모 내용을 입력해 주세요.",
+  "deleteThisMemo": "이 메모 삭제"
+}

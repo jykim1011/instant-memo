@@ -1,0 +1,8 @@
+# Copy this file to android/key.properties and fill in your values.
+# NEVER commit android/key.properties to git.
+storePassword=YOUR_KEYSTORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=instant-memo
+# Windows example: C:/Users/YOUR_USERNAME/instant-memo-release.jks
+# macOS/Linux example: /Users/YOUR_USERNAME/instant-memo-release.jks
+storeFile=C:/Users/YOUR_USERNAME/instant-memo-release.jks
